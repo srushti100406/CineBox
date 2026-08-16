@@ -44,7 +44,7 @@ CineBox/
 └── README.md
 ```
 
-##Installation
+## Installation
 
 Make sure Node.js and npm are installed on your system.
 
@@ -58,7 +58,7 @@ Open the local URL shown in the terminal (usually http://localhost:5173) in your
 
 ## Project URL
 
-- **Live Demo:**https://cinebox-chi.vercel.app/
+Live Demo: https://cinebox-chi.vercel.app/
 
 ## License
 
