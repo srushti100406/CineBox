@@ -41,7 +41,7 @@ CineBox/
 │   └── ...
 ├── public/
 ├── package.json
-└── README.md
+└── README.md ```
 
 ##Installation
 
